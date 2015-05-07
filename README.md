@@ -5,3 +5,4 @@ Group Members
 * Joel Armando
 * Peter Baier
 * Zsolt Balvanyos
+* James Thornton
